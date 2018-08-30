@@ -1,0 +1,15 @@
+{
+  "name": "webpersonal-master",
+  "version": "1.0.0",
+  "description": "web",
+  "main": "public",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "lite-server"
+  },
+  "author": "Hector Guevara",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
